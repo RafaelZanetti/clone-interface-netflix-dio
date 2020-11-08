@@ -1,1 +1,2 @@
-# clone-interface-netflix-dio
+# Clone da Interface do Netflix. 
+Projeto realizado em Bootcamp DIO
